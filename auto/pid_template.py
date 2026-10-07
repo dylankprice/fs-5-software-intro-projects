@@ -1,5 +1,5 @@
 import numpy as np
-
+import numpy as np
 
 def make_car(desired_v:float=20.0, dt:float=0.1) -> dict:
     """ 
